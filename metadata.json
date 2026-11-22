@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis 3D Robot Assistant",
+  "description": "A futuristic JARVIS interface featuring an interactive 3D robot head with expressive facial animations, voice command synthesis, and real-time AI responses.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
